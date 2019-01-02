@@ -3,9 +3,9 @@
 
 
 ## Conference 
-ISBI(International Symposium on Biomedical Imaging)
-MICCAI(International Conference on Medical Image Computing and computer Assisted Intervention)
-IPMI (Information Processing in Medical Imaging)
+* ISBI(International Symposium on Biomedical Imaging)
+* MICCAI(International Conference on Medical Image Computing and computer Assisted Intervention)
+* IPMI (Information Processing in Medical Imaging)
 
 
 ## Journal
