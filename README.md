@@ -1,4 +1,4 @@
-# medical image and machine learning
+# multimodal medical image and machine learning
 
 ## Conference 
 * ISBI(International Symposium on Biomedical Imaging)
